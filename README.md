@@ -7,13 +7,17 @@ This repo contains all the resources, concepts, and code one may need to underst
 ### Resources
 
 1. [Prog. with Mosh Playlist](https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef)
+2. [Visual Studio 2022](https://www.youtube.com/watch?v=VcU2HGsxeII)
 
 ### Downloads and Installation
+
+Visual Studio 2022
+
 
 
 ### Concepts
 
-
+C# developers borrowed ideas from the JAVA community. In JAVA, the compiler does not directly translate into machine code but into an intermediate language called bytecode. In C# it's IL code and then it's turned into Native code. The CLR translates the IL code into Native code. This process is called JIT (Just in time compilation)
 
 - Setting up the folders and files:
 
